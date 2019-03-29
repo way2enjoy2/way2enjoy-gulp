@@ -3,13 +3,13 @@
   "version": "1.0.1",
   "description": "Way2enjoy API wrapper for compressing JPG, PNG, GIF images as well as PDF, MP3,MP4. All video & audio files are supported",
   "main": "index.js",
-  "repository": "stnvh/way2enjoy-gulp",
+  "repository": "way2enjoy2/way2enjoy-gulp",
   "scripts": {
     "test": "mocha"
   },
   "author": {
     "name": "way2enjoy2",
-    "email": "stanutcheon@me.com",
+    "email": "support@way2enjoy.com",
     "url": "https://github.com/way2enjoy2"
   },
   "contributors": [
